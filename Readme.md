@@ -2,6 +2,7 @@
   https://nodejs.org/ko/
 
 ### 1. npm init
+
   package name: (forkify)
   version: (1.0.0)
   description: Recipe application
