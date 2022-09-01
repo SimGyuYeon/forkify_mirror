@@ -2,7 +2,7 @@
   https://nodejs.org/ko/
 
 ### 1. npm init
-'''
+```
   package name: (forkify)
   version: (1.0.0)
   description: Recipe application
@@ -13,7 +13,7 @@
   author: sim
   license: (ISC)
   About to write to C:\Users\SIM\Documents\dev_work\vs_work\forkify\package.json:
-'''
+```
   {
     "name": "forkify",
     "version": "1.0.0",
