@@ -1,7 +1,7 @@
-###0. Node.js 설치
+### 0. Node.js 설치
   https://nodejs.org/ko/
 
-###1. npm init
+### 1. npm init
   package name: (forkify)
   version: (1.0.0)
   description: Recipe application
@@ -25,20 +25,20 @@
     "license": "ISC"
   }
 
-###2. package.json created
+### 2. package.json created
   delete "main" property (parcel v2)
 
-###3. change "scripts"
+### 3. change "scripts"
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
   
-###4. install parcel
+### 4. install parcel
   npm i parcel@2
 
-###5. install core-js
+### 5. install core-js
   npm i core-js regenerator-runtime
 
-###6. npm start
+### 6. npm start
 
