@@ -14,6 +14,7 @@
   license: (ISC)
   About to write to C:\Users\SIM\Documents\dev_work\vs_work\forkify\package.json:
 ```
+```
   {
     "name": "forkify",
     "version": "1.0.0",
@@ -25,6 +26,7 @@
     "author": "sim",
     "license": "ISC"
   }
+```
 
 ### 2. package.json created
   delete "main" property (parcel v2)
