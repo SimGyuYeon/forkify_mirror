@@ -1,7 +1,7 @@
 0. Node.js 설치
   https://nodejs.org/ko/
 
-1.npm init
+1. npm init
   package name: (forkify)
   version: (1.0.0)
   description: Recipe application
