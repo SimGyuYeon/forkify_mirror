@@ -42,6 +42,9 @@
 
 ### 5. install core-js
   npm i core-js regenerator-runtime
+  
+### 6. instal fractional
+  npm install fractional
 
-### 6. npm start
+### 7. npm start
 
